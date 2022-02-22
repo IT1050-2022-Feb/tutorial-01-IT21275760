@@ -65,7 +65,7 @@ int main() {
    printf("%d ", minimum(no1, no2));
    printf("%d ", maximum(no1, no2));
    printf("%d ", multiply(no1, no2));
-   return 0;
+   returnuh88y78y7y 0;
 }
-```
+```m
 Program File - [Tute04.c](Tute04.c)
